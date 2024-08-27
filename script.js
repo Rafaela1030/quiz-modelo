@@ -8,41 +8,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "PERGUNTA 1",
-        alternativas: [
-            {
-                texto: "RESPOSTA 1!",
-                afirmacao: "AFIRMATIVA DA RESPOSTA 1r. "
+        enunciado: "Você jogaria na seleção brasileira?",
+        alternativas: [ A)Sim,jogaria na seleção,porque os jogadores parecem ser simpaticos e jogam muito bem.Tenho disposição e treino bastante.
+            {         B)Acho legal entrar para a seleção,mas não tenho treino sulficiente para acompanhar os jogadores.
+                texto: "sim,gostaria muito de jogar na seleção",
+                afirmacao: "você tem um ótimo potencial para entrar na seleção. "
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                texto: "Acho legal,mas não tenho treino suficiente",
+                afirmacao: "porém vc não tem um fisico adequado  ."
             }
         ]
     },
     {
-        enunciado: "PERGUNTA 2",
-        alternativas: [
-            {
-                texto: "RESPOSTA 1",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+        enunciado: "Você prefere jogar vôlei ou futebol na seleção ?",
+        alternativas: [ A)Prefiro entrar na seleção para jogar vôlei,admiro o esporte.
+            {           B)Admiro o futebol,por isso jogaria para else.
+                texto: "gostaria de jogar no time de vôlei",
+                afirmacao: "prefiro vôlei do que futebol."
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2"
+                texto: "admiro o futebol",
+                afirmacao: "gosto mais de futebol do que de vôlei"
             }
         ]
     },
     {
-        enunciado: "PERGUNTA 3",
-        alternativas: [
-            {
-                texto: "RESPOSTA 1",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+        enunciado: "como o esporte interferiu em sua vida?",
+        alternativas: [a)De modo positivo,pois pratico esports, como futebol,vôlei,para desenvolver habilidade
+            {          b)Ajuda a ocupar a minha mente,ajudando saude fisica e mental
+                texto: "de modo positivo",
+                afirmacao: "ajuda na constancia e habilidade"
             },
             {
-                texto: "RESPOSTA 2",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                texto: "ocupa minha mente",
+                afirmacao: "a melhoria da saude."
             }
         ]
     },
