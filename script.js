@@ -11,12 +11,12 @@ const perguntas = [
         enunciado: "Você jogaria na seleção brasileira?",
         alternativas: [
             {         
-                texto: "sim,jogaria na seleção,poque os jogadores parecem ser simpaticos e jogam muito bem. Tenho disposição e treino bastante.",
-                afirmacao: "você tem um ótimo  potencial para entrar na seleção. "
+                texto: "Sim,jogaria na seleção,poque os jogadores parecem ser simpaticos e jogam muito bem. Tenho disposição e treino bastante.",
+                afirmacao: "Você tem um ótimo  potencial para entrar na seleção. "
             },
             {
                 texto: "Acho legal entrar para a seleção, mas nao tenho treino sulficiente para acompanhar os jogadores",
-                afirmacao: "porém vc não tem um fisico adequado  ."
+                afirmacao: "Porém vc não tem um fisico adequado  ."
             }
         ]
     },
@@ -34,7 +34,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "como o esporte interferiu em sua vida?",
+        enunciado: "Como o esporte interferiu em sua vida?",
         alternativas: [
             {          
                 texto: "De modo positivo,pois pratico esports, como futebol,vôlei,para desenvolver habilidade",
